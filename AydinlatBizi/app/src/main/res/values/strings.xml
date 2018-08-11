@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aydinlat Bizi</string>
+    <string name="off"></string>
+    <string name="on"></string>
+    <string name="status"></string>
+    <string name="sound"></string>
+</resources>
